@@ -23,8 +23,11 @@ As an Xporter on Demand Partner, You agree to comply with the following pledge a
 **Groupcall Limited and You both agree to:**
 
 * Act as Data Processors for schools, who remain the Data Controllers at all times
+
 * Process the data received from schools for the purposes of education and school improvement only, and only for those purposes necessary to provide the service explicitly offered to schools
+
 * Adhere strictly to the terms of the General Data Protection Regulation (GDPR) and any future amendments or applicable legislation.
+
 * Only store and process the minimum data required to provide our services
 * Transport and store all personal data originating from schools using modern and best practice encryption technologies. At a minimum, this will include Secure Socket Layers (SSL/TLS) for encrypted data transfer over the Internet, encryption of all data at rest, and password-protected identities for all end users
 * Comply with all Subject Access Requests made against the data stored
